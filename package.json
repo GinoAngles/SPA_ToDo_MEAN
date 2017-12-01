@@ -1,0 +1,13 @@
+{
+  "name": "angular-todo",
+  "version": "1.0.1",
+  "description": "Stack MEAN First application",
+  "main": "server.js",
+  "author": "Gino Angles",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-logger": "0.0.3",
+    "method-override": "^2.3.10",
+    "mongoose": "^4.13.5"
+  }
+}
