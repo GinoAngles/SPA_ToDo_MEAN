@@ -4,11 +4,11 @@ Single Page Application (To Do List) with Stack MEAN
 Simple Example of SPA.
 Technologies (MEAN Stack):
 
-NodeJS 8.9.1
-- Express 4.16.2
-MongoDB 3.4.10
-- Mongoose 4.13.5
-Angular 1.6.4
+NodeJS 8.9.1 <br>
+- Express 4.16.2 <br>
+MongoDB 3.4.10 <br>
+- Mongoose 4.13.5 <br>
+Angular 1.6.4 <br>
 
 Others:
 Bootstrap v4
