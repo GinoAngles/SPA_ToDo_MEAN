@@ -11,8 +11,8 @@ Technologies (MEAN Stack): <br>
 - Angular 1.6.4 <br>
 
 Others: <br>
-Bootstrap v4 <br>
-JQuery 3.2.1 <br>
+- Bootstrap v4 <br>
+- JQuery 3.2.1 <br>
 
 
 // First be sure you have MongoDB and Node.js installed. <br>
